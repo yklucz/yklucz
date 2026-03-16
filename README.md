@@ -16,7 +16,7 @@ I build tools, bots and web applications using JavaScript, TypeScript, React and
 </p>
 
 ## GitHub Stats
-| <img src="https://github-readme-stats-three-zeta-55.vercel.app/api?username=midoradev&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&locale=en" /> | <img src="https://github-readme-stats-three-zeta-55.vercel.app/api/top-langs/?username=midoradev&layout=compact&theme=github_dark&hide_border=true&langs_count=8&locale=en" /> |
+| <img src="https://github-readme-stats-three-zeta-55.vercel.app/api?username=yklucz&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&locale=en" /> | <img src="https://github-readme-stats-three-zeta-55.vercel.app/api/top-langs/?username=midoradev&layout=compact&theme=github_dark&hide_border=true&langs_count=8&locale=en" /> |
 | ------------- | ------------- |
 
 ## Streak
