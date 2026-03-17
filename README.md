@@ -77,5 +77,5 @@ A developer focused on building bots, tools, and web applications with **JavaScr
 ### 🔗 Contact
 
 [![GitHub](https://img.shields.io/badge/@yklucz-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yklucz)
-[![Twitter / X](https://img.shields.io/badge/@lncvzz-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/lncvzz)
+[![Twitter / X](https://img.shields.io/badge/@yklucz-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/yklucz)
 [![YouTube](https://img.shields.io/badge/@lncvz-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@lncvz)
